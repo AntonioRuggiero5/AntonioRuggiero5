@@ -1,6 +1,6 @@
 Hi! My name is Antonio Ruggiero, and I'm so glad you found your way onto my GitHub profile. 
 
-I'm currently looking for work in the **technical content world**. 
+I'm currently looking for work in the **technical content world**. You can review my resume and portfolio in /AntonioRuggiero5.
 
 - I’m working on new Udemy certifications to improve my technical skills. 🧠
 - I’m currently learning the ins and outs of GitHub.
